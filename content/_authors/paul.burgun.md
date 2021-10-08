@@ -1,6 +1,7 @@
 ---
 fullname: Paul Burgun
 role: Chargé de déploiement
+github: paulburgun 
 domaine: Déploiement
 missions:
   - start: 2021-01-04
