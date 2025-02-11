@@ -28,6 +28,9 @@ accessibility_status: non conforme
 mon_service_securise: true
 budget_url: https://docs.google.com/document/d/1XAyC_ghQs9RtUtrfMRGHBvzqhjCWfqDbshT8b__XU9Q/edit?usp=sharing
 techno: []
+fast:
+  promotion: 15
+  montant: 30000
 ---
 ## Le problème
 
